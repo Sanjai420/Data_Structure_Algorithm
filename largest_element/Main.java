@@ -17,7 +17,7 @@ public class Main {
             }
         }
         
-        return "no";
+        return "No";
     }
     
     public static void main(String args[]) {
